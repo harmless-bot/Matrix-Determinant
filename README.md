@@ -23,11 +23,12 @@ I plan to add more features in the future.
    (numpy library is used)   
 
 -------------------------
-Updates-------->
+Updates
 -------------------------
 v1.1  
 ->supports only 3×3 matrix determinant calculation  
-----------------------------------------------------------------------------------------------------------
+
+
 v1.2
 ->Added **interactive loop** to allow checking multiple matrices without restarting the program  
 ->Explicit element assignments (`a` through `i`) for clarity 
