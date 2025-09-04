@@ -1,7 +1,7 @@
 # Matrix Determinant Calculator  
 
 this is one of my beginner projects in Python. 
-
+ (numpy library is used) 
 
 It is a simple program that calculates the determinant of a 3×3 matrix. Just copy the code and run it :}
 I plan to add more features in the future.  
@@ -21,7 +21,7 @@ Features
   - Lower Triangular
   - Null Matrix
   - Identity Matrix
-   (numpy library is used)   
+    
 
 -------------------------
 Updates
