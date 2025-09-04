@@ -6,11 +6,12 @@ this is one of my beginner projects in Python.
 It is a simple program that calculates the determinant of a 3×3 matrix. Just copy the code and run it :}
 I plan to add more features in the future.  
 
----
 
- Features = 
+-------------------------
+Features
+-------------------------
 -> accepts manual input of a 3×3 matrix  
-  **(!note: input must be integers. The program exits if floats are entered, or if the wrong number of elements are given. spaces are required between elements.)  
+  !note: input must be integers. The program exits if floats are entered, or if the wrong number of elements are given. spaces are required between elements.)  
 -> displays the matrix in a clean, formatted style  
 -> calculates the determinant using minors and cofactors
 -- Checks **matrix properties**:
