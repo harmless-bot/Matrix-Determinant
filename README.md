@@ -21,7 +21,7 @@ I plan to add more features in the future.
   - Null Matrix
   - Identity Matrix
 -------------------------
-numpy library is used   |
+numpy library is used   
 -------------------------
 ## Updates  =
 v1.1  
